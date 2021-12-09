@@ -1,0 +1,14 @@
+{ "columns":10,
+ "image":"..\/..\/..\/..\/Downloads\/free-swamp-game-tileset-pixel-art\/1 Tiles\/Tileset.png",
+ "imageheight":192,
+ "imagewidth":320,
+ "margin":0,
+ "name":"Tileset",
+ "spacing":0,
+ "tilecount":60,
+ "tiledversion":"1.7.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.6"
+}

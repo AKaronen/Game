@@ -1,0 +1,17 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.27.7",
+    "phaser": "^3.55.2"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
